@@ -18,6 +18,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor brownColor];
     // 1
+    // 2
 }
 
 - (void)didReceiveMemoryWarning {
